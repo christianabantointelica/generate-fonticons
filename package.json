@@ -1,0 +1,21 @@
+{
+  "name": "generate-fonticons",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "generate-incontrol-icons": "fantasticon ./src/incontrol-icons/source -o ./src/incontrol-icons/ -n incontrol-icons -t eot woff ttf svg -p icon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "fantasticon": "^2.0.0",
+  "devDependencies": {
+    "fantasticon": "^2.0.0"
+  },
+  "overrides": {
+    "fantasticon": {
+      "glob": "7.2.0"
+    }
+  }
+}
