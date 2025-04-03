@@ -1,4 +1,4 @@
-# AJUSTES SVG ANTES GENERAR FONT
+# AJUSTES SVG ANTES DE GENERAR FONT
 Los svg deben tener un tamaño de 1024x1024.
 Los svg deben estar expanded ( no con stroke ) y en lo posible desagrupados.
 Puede realizar esos ajuste en Figma, y luego exportarlos, aun asi darle revisada code svg y borrar lo que fuera necesario.
