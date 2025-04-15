@@ -1,0 +1,9 @@
+module.exports = {
+   inputDir: './src/incontrol-icons/source',
+   outputDir: './src/incontrol-icons/',
+   name: 'incontrol-icons',
+   fontTypes: ['eot', 'woff', 'ttf', 'svg'],
+   assetTypes: ['css'],
+   prefix: 'icon',
+   fileName: 'incontrol-icons' // Esto desactiva el uso de hashes
+ };

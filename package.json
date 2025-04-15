@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "generate-incontrol-icons": "fantasticon ./src/incontrol-icons/source -o ./src/incontrol-icons/ -n incontrol-icons -t eot woff ttf svg -p icon"
+    "generate-incontrol-icons": "fantasticon ./src/incontrol-icons/source -o ./src/incontrol-icons/ -n incontrol-icons -t eot woff ttf svg -p icon --tag \"\""
   },
   "keywords": [],
   "author": "",
