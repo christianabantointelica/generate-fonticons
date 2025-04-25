@@ -6,9 +6,11 @@
 # GENERAR FONT ICONS
 Para generar la fuente de los iconos de **incontrol-icons**, utiliza el siguiente comando:
 
-> npm run generate-incontrol-icons
+> npm run generate
 
 Una vez ejecutado el comando, dirígete a la carpeta "**src/incontrol-icons**", donde encontrarás los archivos de la fuente (**.eot, .ttf, .woff, .svg**) y el archivo .css correspondiente.
+
+La hoja de estilos "incontrol-icons.css", eliminar la etiqueta "i" de "i[class^="icon-"]:before, i[class*=" icon-"]:before"
 
 # VISTA PREVIA
 En la misma carpeta "**src/incontrol-icons**", encontrarás un archivo generado llamado "**incontrol-icons.html**" para visualizar los iconos de la fuente generada.
