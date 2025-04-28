@@ -1,13 +1,13 @@
 @font-face {
     font-family: "incontrol-icons";
-    src: url("./incontrol-icons.eot?89cd2a7e7b00b9dc8607a6b6016b2ecd#iefix") format("embedded-opentype"),
-url("./incontrol-icons.woff?89cd2a7e7b00b9dc8607a6b6016b2ecd") format("woff"),
-url("./incontrol-icons.woff2?89cd2a7e7b00b9dc8607a6b6016b2ecd") format("woff2"),
-url("./incontrol-icons.ttf?89cd2a7e7b00b9dc8607a6b6016b2ecd") format("truetype"),
-url("./incontrol-icons.svg?89cd2a7e7b00b9dc8607a6b6016b2ecd#incontrol-icons") format("svg");
+    src: url("./incontrol-icons.eot?274c2eac06a5bcaa4eb4e11468571967#iefix") format("embedded-opentype"),
+url("./incontrol-icons.woff?274c2eac06a5bcaa4eb4e11468571967") format("woff"),
+url("./incontrol-icons.woff2?274c2eac06a5bcaa4eb4e11468571967") format("woff2"),
+url("./incontrol-icons.ttf?274c2eac06a5bcaa4eb4e11468571967") format("truetype"),
+url("./incontrol-icons.svg?274c2eac06a5bcaa4eb4e11468571967#incontrol-icons") format("svg");
 }
 
-i[class^="icon-"]:before, i[class*=" icon-"]:before {
+[class^="icon-"]:before, [class*=" icon-"]:before {
     font-family: incontrol-icons !important;
     font-style: normal;
     font-weight: normal !important;
