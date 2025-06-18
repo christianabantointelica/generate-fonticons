@@ -98,7 +98,8 @@
   "world": 61793,
   "zoom-in": 61794,
   "zoom-out": 61795,
-  "new-check-two": 61796,
   "new-csv": 61797,
-  "new-modal-preview": 61798
+  "new-modal-preview": 61798,
+  "new-check": 61799,
+  "new-close": 61800
 }

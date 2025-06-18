@@ -1,12 +1,12 @@
 @font-face {
 	font-family: "incontrol-icons";
-	src: url("./incontrol-icons.eot?ca8c11b5bb653796688bff097dc9e8fb#iefix") format("embedded-opentype"), url("./incontrol-icons.woff?ca8c11b5bb653796688bff097dc9e8fb") format("woff"),
-		url("./incontrol-icons.woff2?ca8c11b5bb653796688bff097dc9e8fb") format("woff2"), url("./incontrol-icons.ttf?ca8c11b5bb653796688bff097dc9e8fb") format("truetype"),
-		url("./incontrol-icons.svg?ca8c11b5bb653796688bff097dc9e8fb#incontrol-icons") format("svg");
+	src: url("./incontrol-icons.eot?c18d10854fb72433af7ad4482c13cbd1#iefix") format("embedded-opentype"), url("./incontrol-icons.woff?c18d10854fb72433af7ad4482c13cbd1") format("woff"),
+		url("./incontrol-icons.woff2?c18d10854fb72433af7ad4482c13cbd1") format("woff2"), url("./incontrol-icons.ttf?c18d10854fb72433af7ad4482c13cbd1") format("truetype"),
+		url("./incontrol-icons.svg?c18d10854fb72433af7ad4482c13cbd1#incontrol-icons") format("svg");
 }
 
-[class^="icon-"]:before,
-[class*=" icon-"]:before {
+i[class^="icon-"]:before,
+i[class*=" icon-"]:before {
 	font-family: incontrol-icons !important;
 	font-style: normal;
 	font-weight: normal !important;
@@ -314,12 +314,15 @@
 .icon-zoom-out:before {
 	content: "\f163";
 }
-.icon-new-check-two:before {
-	content: "\f164";
-}
 .icon-new-csv:before {
 	content: "\f165";
 }
 .icon-new-modal-preview:before {
 	content: "\f166";
+}
+.icon-new-check:before {
+	content: "\f167";
+}
+.icon-new-close:before {
+	content: "\f168";
 }
